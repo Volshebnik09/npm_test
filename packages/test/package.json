@@ -1,6 +1,6 @@
 {
-  "name": "@sin-npm-test/test",
-  "version": "1.0.1",
+  "name": "@sin-npm-test/testing-pack",
+  "version": "1.0.2",
   "main": "index.js",
   "packageManager": "pnpm@9.3.0",
   "scripts": {
