@@ -1,5 +1,5 @@
 {
-  "name": "@npm_test/index",
+  "name": "@sin_npm_test/index",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
