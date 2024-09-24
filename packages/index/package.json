@@ -12,5 +12,6 @@
   "dependencies": {
     "dependency": "workspace:^"
   },
+
   "private": false
 }
