@@ -12,6 +12,10 @@
   "dependencies": {
     "dependency": "workspace:^"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Volshebnik09/npm_test.git",
+    "directory": "packages/index"
+  },
   "private": false
 }
