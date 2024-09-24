@@ -1,15 +1,8 @@
 {
-  "name": "@sin-npm-test/testing-pack",
-  "version": "1.0.2",
+  "name": "@sinnpmtest/test",
+  "version": "1.0.0",
   "main": "index.js",
-  "packageManager": "pnpm@9.3.0",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "type": "module",
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/Volshebnik09/npm_test.git",
